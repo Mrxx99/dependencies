@@ -10,4 +10,5 @@ openal:     http://www.openal.org
             But also http://sourceforge.net/projects/openal-soft http://kcat.strangesoft.net/openal.html
 pthread:    https://www.sourceware.org/pthreads-win32/
 wiiuse:     https://github.com/rpavlik/wiiuse
+SDL2:		https://www.libsdl.org/
             (sources also included in our source distribution)
